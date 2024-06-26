@@ -1,4 +1,4 @@
-<div class="site" id="page" style="display:flex;flex-direction:column;max-width:100%;margin:0pxauto;background-color:#333333;color:#0000000;font-family:-apple-system,BlinkMacSystemFont,;text-align:center">
+7<div class="site" id="page" style="display:flex;flex-direction:column;max-width:100%;margin:0pxauto;background-color:#333333;color:#0000000;font-family:-apple-system,BlinkMacSystemFont,;text-align:center">
 <div class="bg-area" style="position:relative;background-color:#000000;color:#ffffff;text-align:center">
 <div class="content-wrap" style="position:relative;z-index:11;height:1000px;text-align:center">
 <div class="bg-area" style="position:relative;background-color:#0000ff;color:#ffffff;text-align:center">
